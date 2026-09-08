@@ -1,3 +1,3 @@
-# Alper-Kabal
-I am Alper Kabal. I study computer engineering, and I am a sophomore at Bilkent University. Passionate about maths and programming.
+# AlperKabal
+I am Alper Kabal. I study computer engineering, and I am a junior at Bilkent University. Passionate about maths, machine learning, and full-stack development.
 
